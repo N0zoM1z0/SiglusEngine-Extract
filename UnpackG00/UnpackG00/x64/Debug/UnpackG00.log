@@ -1,0 +1,10 @@
+﻿  UnpackG00.cpp
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(15,9): warning C4101: “result”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(19,11): warning C4101: “v7”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(20,11): warning C4101: “v8”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(21,11): warning C4101: “v9”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(108,10): warning C4244: “=”: 从“DWORD”转换到“short”，可能丢失数据
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(114,14): warning C4244: “=”: 从“DWORD”转换到“short”，可能丢失数据
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(83,13): warning C4101: “v7”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\UnpackG00.cpp(82,13): warning C4101: “v6”: 未引用的局部变量
+  UnpackG00.vcxproj -> D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\UnpackG00\x64\Debug\UnpackG00.exe

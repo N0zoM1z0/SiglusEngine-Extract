@@ -1,0 +1,28 @@
+﻿  read.sav_exp.cpp
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(19,11): warning C4311: “类型强制转换”: 从“BYTE *”到“unsigned int”的指针截断
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(19,11): warning C4302: “类型强制转换”: 从“BYTE *”到“unsigned int”截断
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(20,9): warning C4311: “类型强制转换”: 从“BYTE *”到“unsigned int”的指针截断
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(20,9): warning C4302: “类型强制转换”: 从“BYTE *”到“unsigned int”截断
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(38,18): warning C4311: “类型强制转换”: 从“BYTE *”到“unsigned int”的指针截断
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(38,18): warning C4302: “类型强制转换”: 从“BYTE *”到“unsigned int”截断
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(49,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(57,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(120,25): warning C4477: “fprintf”: 格式字符串“%6d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(120,25):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(133,13): warning C4477: “fprintf”: 格式字符串“%6d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(133,13):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(77,10): warning C4101: “pszPath”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(64,17): warning C4101: “v7”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(68,11): warning C4101: “v11”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(67,11): warning C4101: “v10”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(65,11): warning C4101: “v8”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(75,10): warning C4101: “Buffer”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(63,11): warning C4101: “v6”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(61,11): warning C4101: “v4”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(66,11): warning C4101: “v9”: 未引用的局部变量
+D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\read.sav_exp.cpp(62,11): warning C4101: “v5”: 未引用的局部变量
+  read.sav_exp.vcxproj -> D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\EXP\read.sav_exp\x64\Debug\read.sav_exp.exe
